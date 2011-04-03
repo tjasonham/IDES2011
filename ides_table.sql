@@ -83,5 +83,59 @@ CREATE TABLE `studentTable` (
 -- Dumping data for table `studentTable`
 --
 
-INSERT INTO `studentTable` VALUES(1, 'allan', 'yong', 'http://www.allanyong.com', 'allan@allanyong.com', 'Ottawa', 'RIM', 'RIM sucks', 1, 'Chris Joslin', 'test question answer', 'test question answer', 'test question answer', 'test question answer', 'test question answer', '');
-INSERT INTO `studentTable` VALUES(2, 'henri', 'Kus', 'http://www.oh-henri.com', 'henri@henri.com', 'Germany', 'RIM', 'RIM sucks', 1, 'Chris Joslin', 'test question answer', 'test question answer', 'test question answer', 'test question answer', 'test question answer', '');
+--
+--Group ID 1 Adaptive Sports
+--
+INSERT INTO `studentTable` VALUES(1, 'Dao', 'Minh', 'http', '@', 'Ottawa', 'title', 'CPC: Adaptive Sports', 1, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(2, 'Healy', 'Joseph', 'http', '@', 'Ottawa', 'title', 'CPC: Adaptive Sports', 1, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(3, 'Jewell', 'Erin', 'http', '@', 'Ottawa', 'title', 'CPC: Adaptive Sports', 1, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(4, 'Lowe', 'Andrew', 'http', '@', 'Ottawa', 'title', 'CPC: Adaptive Sports', 1, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(5, 'Morgan', 'Kevin', 'http', '@', 'Ottawa', 'title', 'CPC: Adaptive Sports', 1, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+
+--
+--Group ID 2 Workspace Next
+--
+INSERT INTO `studentTable` VALUES(6, 'Doiron', 'Charles', 'http', '@', 'Ottawa', 'title', 'Teknion: Workspace Next', 2, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(7, 'Guerra Gunzel', 'Emmanuel', 'http', '@', 'Ottawa', 'title', 'Teknion: Workspace Next', 2, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(8, 'Kong', 'Claire', 'http', '@', 'Ottawa', 'title', 'Teknion: Workspace Next', 2, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(9, 'Lau', 'William', 'http', '@', 'Ottawa', 'title', 'Teknion: Workspace Next', 2, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(10, 'Lee', 'Thomas', 'http', '@', 'Ottawa', 'title', 'Teknion: Workspace Next', 2, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(11, 'Zhang', 'Cynthia', 'http', '@', 'Ottawa', 'title', 'Teknion: Workspace Next', 2, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+
+--
+--Group ID 3 Firetactics
+--
+INSERT INTO `studentTable` VALUES(12, 'Fromow', 'Mark', 'http', '@', 'Ottawa', 'title', 'OMNR: Firetactics', 3, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(13, 'Ho', 'Ruby', 'http', '@', 'Ottawa', 'title', 'OMNR: Firetactics', 3, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(14, 'Oddy', 'Lee', 'http', '@', 'Ottawa', 'title', 'OMNR: Firetactics', 3, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(15, 'Palmer', 'Jordan', 'http', '@', 'Ottawa', 'title', 'OMNR: Firetactics', 3, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(16, 'Pityk', 'Eugene', 'http', '@', 'Ottawa', 'title', 'OMNR: Firetactics', 3, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(17, 'Viol', 'Brandon', 'http', '@', 'Ottawa', 'title', 'OMNR: Firetactics', 3, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+
+--
+--Group ID 4 Lota Renovacion
+--
+INSERT INTO `studentTable` VALUES(18, 'Bhimani', 'Rahim', 'http', '@', 'Ottawa', 'title', 'OCE: Lora Renovacion', 4, 'Lois Frankel', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(19, 'Bussin', 'Rachel', 'http', '@', 'Ottawa', 'title', 'OCE: Lora Renovacion', 4, 'Lois Frankel', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(20, 'Iouguina', 'Alena', 'http', '@', 'Ottawa', 'title', 'OCE: Lora Renovacion', 4, 'Lois Frankel', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(21, 'Marusaik', 'Jane', 'http', '@', 'Ottawa', 'title', 'OCE: Lora Renovacion', 4, 'Lois Frankel', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(22, 'Serrer', 'Samantha', 'http', '@', 'Ottawa', 'title', 'OCE: Lora Renovacion', 4, 'Lois Frankel', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(23, 'Sheri', 'Yasaman', 'http', '@', 'Ottawa', 'title', 'OCE: Lora Renovacion', 4, 'Lois Frankel', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+
+--
+--Group ID 5 Mobile Life
+--
+INSERT INTO `studentTable` VALUES(24, 'Hill', 'Caleb', 'http', '@', 'Ottawa', 'title', 'RIM: Mobile Life', 5, 'Lois Frankel', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(25, 'Lorsignol', 'Felix', 'http', '@', 'Ottawa', 'title', 'RIM: Mobile Life', 5, 'Lois Frankel', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(26, 'Luong', 'Teddy', 'http', '@', 'Ottawa', 'title', 'RIM: Mobile Life', 5, 'Lois Frankel', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(27, 'Mullins', 'Torrin', 'http', '@', 'Ottawa', 'title', 'RIM: Mobile Life', 5, 'Lois Frankel', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(28, 'Tang', 'Sisi', 'http', '@', 'Ottawa', 'title', 'RIM: Mobile Life', 5, 'Lois Frankel', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(29, 'Toros', 'Ece', 'http', '@', 'Ottawa', 'title', 'RIM: Mobile Life', 5, 'Lois Frankel', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(30, 'Yuzbasioglu', 'Mehmet', 'http', '@', 'Ottawa', 'title', 'RIM: Mobile Life', 5, 'Lois Frankel', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+
+--
+--Group ID 6 ConnectED
+--
+INSERT INTO `studentTable` VALUES(31, 'Henderson', 'Lisa', 'http', '@', 'Ottawa', 'title', 'Smart: ConnectED', 6, 'Lois Frankel', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(31, 'Marin', 'Megan', 'http', '@', 'Ottawa', 'title', 'Smart: ConnectED', 6, 'Lois Frankel', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(31, 'McMahon', 'Cory', 'http', '@', 'Ottawa', 'title', 'Smart: ConnectED', 6, 'Lois Frankel', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
