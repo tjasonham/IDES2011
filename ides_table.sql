@@ -86,8 +86,8 @@ CREATE TABLE `studentTable` (
 --
 --Group ID 1 Adaptive Sports
 --
-INSERT INTO `studentTable` VALUES(1, 'Dao', 'Minh', 'http', '@', 'Ottawa', 'title', 'CPC: Adaptive Sports', 1, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
-INSERT INTO `studentTable` VALUES(2, 'Healy', 'Joseph', 'http', '@', 'Ottawa', 'title', 'CPC: Adaptive Sports', 1, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(1, 'Dao', 'Minh', 'http://minhdao.ca', 'design@minhdao.ca', 'Kanata, ON', 'Wheelchair Trainer', 'CPC: Adaptive Sports', 1, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(2, 'Healy', 'Joseph', 'n/a', 'n/a', 'Ottawa, ON', 'Paraplegic Sailboat Simulator', 'CPC: Adaptive Sports', 1, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
 INSERT INTO `studentTable` VALUES(3, 'Jewell', 'Erin', 'http', '@', 'Ottawa', 'title', 'CPC: Adaptive Sports', 1, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
 INSERT INTO `studentTable` VALUES(4, 'Lowe', 'Andrew', 'http', '@', 'Ottawa', 'title', 'CPC: Adaptive Sports', 1, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
 INSERT INTO `studentTable` VALUES(5, 'Morgan', 'Kevin', 'http', '@', 'Ottawa', 'title', 'CPC: Adaptive Sports', 1, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
@@ -95,9 +95,9 @@ INSERT INTO `studentTable` VALUES(5, 'Morgan', 'Kevin', 'http', '@', 'Ottawa', '
 --
 --Group ID 2 Workspace Next
 --
-INSERT INTO `studentTable` VALUES(6, 'Doiron', 'Charles', 'http', '@', 'Ottawa', 'title', 'Teknion: Workspace Next', 2, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(6, 'Doiron', 'Charles', 'http://www.coroflot.com/doiron', 'charles.andre.doiron@gmail.com', 'Ottawa, ON', 'Satellite | Standing Workstation for the Shared Office', 'Teknion: Workspace Next', 2, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
 INSERT INTO `studentTable` VALUES(7, 'Guerra Gunzel', 'Emmanuel', 'http', '@', 'Ottawa', 'title', 'Teknion: Workspace Next', 2, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
-INSERT INTO `studentTable` VALUES(8, 'Kong', 'Claire', 'http', '@', 'Ottawa', 'title', 'Teknion: Workspace Next', 2, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(8, 'Kong', 'Claire', 'http', 'claire_kong@hotmail.com', 'Oshawa, ON', 'Shroudsystem for Personal Space', 'Teknion: Workspace Next', 2, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
 INSERT INTO `studentTable` VALUES(9, 'Lau', 'William', 'http', '@', 'Ottawa', 'title', 'Teknion: Workspace Next', 2, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
 INSERT INTO `studentTable` VALUES(10, 'Lee', 'Thomas', 'http', '@', 'Ottawa', 'title', 'Teknion: Workspace Next', 2, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
 INSERT INTO `studentTable` VALUES(11, 'Zhang', 'Cynthia', 'http', '@', 'Ottawa', 'title', 'Teknion: Workspace Next', 2, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
@@ -105,7 +105,7 @@ INSERT INTO `studentTable` VALUES(11, 'Zhang', 'Cynthia', 'http', '@', 'Ottawa',
 --
 --Group ID 3 Firetactics
 --
-INSERT INTO `studentTable` VALUES(12, 'Fromow', 'Mark', 'http', '@', 'Ottawa', 'title', 'OMNR: Firetactics', 3, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(12, 'Fromow', 'Mark', 'http', 'mfromow@gmail.com', 'Calgary, AB', 'Portable Work Shelter', 'OMNR: Firetactics', 3, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
 INSERT INTO `studentTable` VALUES(13, 'Ho', 'Ruby', 'http', '@', 'Ottawa', 'title', 'OMNR: Firetactics', 3, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
 INSERT INTO `studentTable` VALUES(14, 'Oddy', 'Lee', 'http', '@', 'Ottawa', 'title', 'OMNR: Firetactics', 3, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
 INSERT INTO `studentTable` VALUES(15, 'Palmer', 'Jordan', 'http', '@', 'Ottawa', 'title', 'OMNR: Firetactics', 3, 'Stephen Field', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
@@ -137,5 +137,5 @@ INSERT INTO `studentTable` VALUES(30, 'Yuzbasioglu', 'Mehmet', 'http', '@', 'Ott
 --Group ID 6 ConnectED
 --
 INSERT INTO `studentTable` VALUES(31, 'Henderson', 'Lisa', 'http', '@', 'Ottawa', 'title', 'Smart: ConnectED', 6, 'Lois Frankel', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
-INSERT INTO `studentTable` VALUES(31, 'Marin', 'Megan', 'http', '@', 'Ottawa', 'title', 'Smart: ConnectED', 6, 'Lois Frankel', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
-INSERT INTO `studentTable` VALUES(31, 'McMahon', 'Cory', 'http', '@', 'Ottawa', 'title', 'Smart: ConnectED', 6, 'Lois Frankel', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(32, 'Marin', 'Megan', 'http', '@', 'Ottawa', 'title', 'Smart: ConnectED', 6, 'Lois Frankel', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
+INSERT INTO `studentTable` VALUES(33, 'McMahon', 'Cory', 'http', '@', 'Ottawa', 'title', 'Smart: ConnectED', 6, 'Lois Frankel', 'abstract', 'n/a', 'n/a', 'n/a', 'n/a', 'n/a', '');
